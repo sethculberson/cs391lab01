@@ -3,12 +3,12 @@
     box-sizing: border-box;
 }
 .title{
-    font: calc(2px + 12vw) Arial;
+    font: calc(2px + 6vw) Arial;
     padding: 10px;
     display: block;
     margin: auto;
 }
 .list{
     padding: 6px;
-    font: calc(2px + 8vw) Arial;
+    font: calc(2px + 2vw) Arial;
 }
