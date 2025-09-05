@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.title{
+    font: calc(2px + 12vw) Arial;
+    padding: 10px;
+    display: block;
+    margin: auto;
+}
+.list{
+    padding: 6px;
+    font: calc(2px + 8vw) Arial;
+}
